@@ -2,7 +2,9 @@
 https://github.com/AndrejCe/Exam-master/.ServerBE_FE
 Unzip and run project ServerBE_FE  in Intelejii Idea
 start server :
-type in terminal
+type in  the terminal:
+
+
 npx json-server --watch db.json
 
 Start local live server 
@@ -11,7 +13,8 @@ All CRUD operations are working
 we can see using  in the teminal,  Postman and Browser and others 
 
 ////////////////////////////
-
+I have  2 options more :
+///////////////////////////
 <2>  Download repository from:
 https://github.com/AndrejCe/ServerFE
 
@@ -41,6 +44,7 @@ we can see using Postman
 
 
 //////////////////////////
+For the <3> I use Spring boot:
 
 go to start.spring.io
 
