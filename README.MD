@@ -1,11 +1,8 @@
 <1>  Download project from :
 https://github.com/AndrejCe/Exam-master/.ServerBE_FE
-Unzip and run project ServerBE_FE  in Intelejii Idea
-start server :
-type in  the terminal:
+Unzip and run project ServerBE_FE  in Vstudio
+start  live server :
 
-
-npx json-server --watch db.json
 
 Start local live server 
 Start Postman.
@@ -29,10 +26,12 @@ validation done if we use empty blank
 
 <3>
 download repository 
-3.ServerBE from
+3.ServerBE 
 
 start Intellegjii Idea
-run project
+
+type in  the terminal:
+npx json-server --watch db.json
 In the terminal we can find line:
 
 Tomcat started on port(s): 8080
